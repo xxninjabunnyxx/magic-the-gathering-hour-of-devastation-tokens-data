@@ -1,0 +1,98 @@
+---
+object: card
+id: 37022fc1-6a13-4873-9eaf-b827da73328e
+oracle_id: f6494620-6f12-4036-a157-16e50f565e48
+multiverse_ids: []
+tcgplayer_id: 138070
+name: Punchcard
+lang: en
+released_at: '2017-07-14'
+uri: https://api.scryfall.com/cards/37022fc1-6a13-4873-9eaf-b827da73328e
+scryfall_uri: https://scryfall.com/card/thou/13/punchcard?utm_source=api
+layout: token
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/7/37022fc1-6a13-4873-9eaf-b827da73328e.jpg?1562639747
+  normal: https://cards.scryfall.io/normal/front/3/7/37022fc1-6a13-4873-9eaf-b827da73328e.jpg?1562639747
+  large: https://cards.scryfall.io/large/front/3/7/37022fc1-6a13-4873-9eaf-b827da73328e.jpg?1562639747
+  png: https://cards.scryfall.io/png/front/3/7/37022fc1-6a13-4873-9eaf-b827da73328e.png?1562639747
+  art_crop: https://cards.scryfall.io/art_crop/front/3/7/37022fc1-6a13-4873-9eaf-b827da73328e.jpg?1562639747
+  border_crop: https://cards.scryfall.io/border_crop/front/3/7/37022fc1-6a13-4873-9eaf-b827da73328e.jpg?1562639747
+mana_cost: ''
+cmc: 0.0
+type_line: Card
+oracle_text: ''
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: cb890bc8-ec73-449e-9be0-46891f39eea1
+set: thou
+set_name: Hour of Devastation Tokens
+set_type: token
+set_uri: https://api.scryfall.com/sets/cb890bc8-ec73-449e-9be0-46891f39eea1
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Athou&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/thou?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/37022fc1-6a13-4873-9eaf-b827da73328e/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af6494620-6f12-4036-a157-16e50f565e48&unique=prints
+collector_number: '13'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: ''
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+promo_types:
+- setpromo
+prices:
+  usd: '0.04'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Punchcard&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Punchcard&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Punchcard
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/138070?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Punchcard&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Punchcard&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

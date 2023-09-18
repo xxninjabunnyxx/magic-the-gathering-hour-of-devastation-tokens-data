@@ -1,0 +1,118 @@
+---
+object: card
+id: 7c9d8aac-c032-4e0d-a8ef-99a7c53c7a19
+oracle_id: 1dea6957-aa6b-42b4-be21-8dc5e01d68e2
+multiverse_ids: []
+tcgplayer_id: 136737
+name: Proven Combatant
+lang: en
+released_at: '2017-07-14'
+uri: https://api.scryfall.com/cards/7c9d8aac-c032-4e0d-a8ef-99a7c53c7a19
+scryfall_uri: https://scryfall.com/card/thou/5/proven-combatant?utm_source=api
+layout: token
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/c/7c9d8aac-c032-4e0d-a8ef-99a7c53c7a19.jpg?1562639879
+  normal: https://cards.scryfall.io/normal/front/7/c/7c9d8aac-c032-4e0d-a8ef-99a7c53c7a19.jpg?1562639879
+  large: https://cards.scryfall.io/large/front/7/c/7c9d8aac-c032-4e0d-a8ef-99a7c53c7a19.jpg?1562639879
+  png: https://cards.scryfall.io/png/front/7/c/7c9d8aac-c032-4e0d-a8ef-99a7c53c7a19.png?1562639879
+  art_crop: https://cards.scryfall.io/art_crop/front/7/c/7c9d8aac-c032-4e0d-a8ef-99a7c53c7a19.jpg?1562639879
+  border_crop: https://cards.scryfall.io/border_crop/front/7/c/7c9d8aac-c032-4e0d-a8ef-99a7c53c7a19.jpg?1562639879
+mana_cost: ''
+cmc: 0.0
+type_line: Token Creature — Zombie Human Warrior
+oracle_text: ''
+power: '4'
+toughness: '4'
+colors:
+- B
+color_identity:
+- B
+keywords: []
+all_parts:
+- object: related_card
+  id: 7c9d8aac-c032-4e0d-a8ef-99a7c53c7a19
+  component: token
+  name: Proven Combatant
+  type_line: Token Creature — Zombie Human Warrior
+  uri: https://api.scryfall.com/cards/7c9d8aac-c032-4e0d-a8ef-99a7c53c7a19
+- object: related_card
+  id: d83fd08a-c87b-4e29-bd1d-31dea3732156
+  component: combo_piece
+  name: Proven Combatant
+  type_line: Creature — Human Warrior
+  uri: https://api.scryfall.com/cards/d83fd08a-c87b-4e29-bd1d-31dea3732156
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: cb890bc8-ec73-449e-9be0-46891f39eea1
+set: thou
+set_name: Hour of Devastation Tokens
+set_type: token
+set_uri: https://api.scryfall.com/sets/cb890bc8-ec73-449e-9be0-46891f39eea1
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Athou&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/thou?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/7c9d8aac-c032-4e0d-a8ef-99a7c53c7a19/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1dea6957-aa6b-42b4-be21-8dc5e01d68e2&unique=prints
+collector_number: '5'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Clint Cearley
+artist_ids:
+- 03b75350-d5a0-4e3a-b3b4-8d4a5554385b
+illustration_id: 2abcec18-f4a0-4eca-b7b9-7ea6729a29a5
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+promo_types:
+- setpromo
+prices:
+  usd: '0.12'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Proven+Combatant&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Proven+Combatant&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Proven+Combatant
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/136737?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Proven+Combatant&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Proven+Combatant&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
